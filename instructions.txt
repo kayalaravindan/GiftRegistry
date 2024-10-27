@@ -1,0 +1,15 @@
+I want to create a gift registry app.
+
+I want to be able to create a registry for a user.
+I want to be able to add items to the registry.
+I want to be able to remove items from the registry.
+I want to be able to check off items from the registry.
+I want to be able to see the total cost of the registry.
+I want to be able to see the total cost of the registry after a discount.
+
+
+I want a user to be able to add items to their cart.
+I want a user to be able to remove items from their cart.
+I want a user to be able to check out and purchase the items in their cart.
+
+I want other users to be able to view the registry of other users.
